@@ -1,0 +1,5 @@
+train: /content/valid-1/train
+val: /content/valid-1/val
+
+nc: 2
+names: ['nonVandalism', 'vandalism']
