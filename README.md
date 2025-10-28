@@ -47,9 +47,8 @@
     ```
 
 3.  **Установите зависимости:**
-    *(Рекомендуется создать файл `requirements.txt`)*
     ```bash
-    pip install ultralytics opencv-python-headless aiogram environs
+    pip install -r requirements.txt`
     ```
 
 4.  **Загрузите веса модели:**
