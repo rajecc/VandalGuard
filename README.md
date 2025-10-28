@@ -36,7 +36,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/your-username/vandalguard.git](https://github.com/your-username/vandalguard.git)
+    git clone https://github.com/your-username/vandalguard.git](https://github.com/your-username/vandalguard.git
     cd vandalguard
     ```
 
@@ -78,7 +78,7 @@
 ```
 .
 ├── VandalGuard.pdf   # Презентация проекта
-├── best.pt           # Обученные веса модели YOLO
+├── VandalGuradModel.pt           # Обученные веса модели YOLO
 ├── config.py         # Модуль конфигурации (загрузка .env)
 ├── data.yaml         # Конфигурация датасета (для обучения)
 ├── main.py           # Основной скрипт (логика бота и детекции)
